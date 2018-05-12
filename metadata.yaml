@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '35428'
     url: http://www.gutenberg.org/2009/agents/35428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31714#The-Art-of-Needle-work-from-the-Earliest-Ages-3rd-ed.Including-Some-Notices-of-the-Ancient-Hi_
 gutenberg_bookshelf:
 - Technology
 - Crafts
